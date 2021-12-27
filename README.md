@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 ## 🌄: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">I'm a aspiring Software Development Engineer</h3>
+<h3 align="center">I'm a Software Development Engineer</h3>
 
 ### Wanna check my website:question::point_right: [Click Here](https://abhi-up79.github.io/):sparkles:
 
 
-- 🌱 I’m currently learning about **Web Development and ML**
+- 🌱 I’m currently learning about **Mobile Development and ML**
 
 - 👨‍💻 All about me is available at [My Website](https://abhi-up79.github.io/)
 
